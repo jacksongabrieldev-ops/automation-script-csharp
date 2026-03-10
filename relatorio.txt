@@ -1,0 +1,35 @@
+=============================================================
+           RELATÓRIO DE CLIENTES COM PAGAMENTO PENDENTE      
+=============================================================
+  Gerado em: 10/03/2026 02:03:48
+=============================================================
+
+  CLIENTES COM PENDÊNCIAS:
+-------------------------------------------------------------
+    1. Thiago Rodrigues               | thiago.rodrigues@email.com    
+       Valor Pendente: R$    4200.90
+-------------------------------------------------------------
+    2. Fernanda Costa                 | fernanda.costa@email.com      
+       Valor Pendente: R$    2800.00
+-------------------------------------------------------------
+    3. Ana Paula Ferreira             | ana.paula@email.com           
+       Valor Pendente: R$    1500.00
+-------------------------------------------------------------
+    4. Lucas Oliveira                 | lucas.oliveira@email.com      
+       Valor Pendente: R$     975.00
+-------------------------------------------------------------
+    5. Mariana Souza                  | mariana.souza@email.com       
+       Valor Pendente: R$     350.75
+-------------------------------------------------------------
+    6. João Pedro Silva               | joao.silva@email.com          
+       Valor Pendente: R$     120.50
+-------------------------------------------------------------
+
+=============================================================
+  RESUMO
+=============================================================
+  Total de clientes no arquivo  :    10
+  Clientes com pendência        :     6
+  Clientes em dia               :     4
+  Valor total pendente          : R$    9947.15
+=============================================================
